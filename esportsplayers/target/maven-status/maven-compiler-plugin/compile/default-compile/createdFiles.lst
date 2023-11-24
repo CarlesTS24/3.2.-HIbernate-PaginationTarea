@@ -1,0 +1,5 @@
+DAO\PlayerDao.class
+com\ieseljust\esportsplayers\Esportsplayers.class
+Model\Player.class
+ORM\HibernateUtil.class
+Model\Player$Gender.class
